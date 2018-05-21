@@ -89,56 +89,56 @@ function uitzetten() {
 
 
 function maakrood() {
-    stoplicht.src = "stoplichtrood.png";
-    stoplicht2.src = "stoplichtrood.png";
+    stoplicht.src = "foto's/stoplichtrood.png";
+    stoplicht2.src = "foto's/stoplichtrood.png";
     stopAuto = true;  //zodat de auto stopt
 }
 
 
 function maakgroen() {
-    stoplicht.src = "stoplichtgroen.png";
-    stoplicht2.src = "stoplichtgroen.png";
+    stoplicht.src = "foto's/stoplichtgroen.png";
+    stoplicht2.src = "foto's/stoplichtgroen.png";
     stopAuto = false;
 }
 
 function maakoranje() {
-    stoplicht.src = "stoplichtgeel.png";
-    stoplicht2.src = "stoplichtgeel.png";
+    stoplicht.src = "foto's/stoplichtgeel.png";
+    stoplicht2.src = "foto's/stoplichtgeel.png";
 stopAuto = false;
 
 }
 
 function zetuit() {
-    stoplicht.src = "stoplichtuit.png";
-    stoplicht2.src = "stoplichtuit.png";
+    stoplicht.src = "foto's/stoplichtuit.png";
+    stoplicht2.src = "foto's/stoplichtuit.png";
     stopAuto=false;
 }
 
 // code van de stoplichten die op hun zij liggen
 
 function maakrood2() {
-    stoplicht3.src = "stoplichtrood3.png";
-    stoplicht4.src = "stoplichtrood3.png";
+    stoplicht3.src = "foto's/stoplichtrood3.png";
+    stoplicht4.src = "foto's/stoplichtrood3.png";
     stopAuto2 = true;
 }
 
 
 function maakgroen2() {
-    stoplicht3.src = "stoplichtgroen3.png";
-    stoplicht4.src = "stoplichtgroen3.png";
+    stoplicht3.src = "foto's/stoplichtgroen3.png";
+    stoplicht4.src = "foto's/stoplichtgroen3.png";
     stopAuto2 = false;
 }
 
 function maakoranje2() {
-    stoplicht3.src = "stoplichtgeel3.png";
-    stoplicht4.src = "stoplichtgeel3.png";
+    stoplicht3.src = "foto's/stoplichtgeel3.png";
+    stoplicht4.src = "foto's/stoplichtgeel3.png";
     stopAuto2 = false;
 
 }
 
 function zetuit2() {
-    stoplicht3.src = "stoplichtuit3.png";
-    stoplicht4.src = "stoplichtuit3.png";
+    stoplicht3.src = "foto's/stoplichtuit3.png";
+    stoplicht4.src = "foto's/stoplichtuit3.png";
     stopAuto2 = false;
 }
 
